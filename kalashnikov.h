@@ -28,7 +28,7 @@
  * THAT HELPS TOO
  *
  */
-class CommonSpear : public Weapon {
+class kalashnikov : public Weapon {
 public:
 
     kalashnikov() : Weapon("kalashnikov", 1917.0) {
