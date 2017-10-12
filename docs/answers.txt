@@ -1,0 +1,32 @@
+a) Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 440 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/bbbbbbbbbbbbbbbbbbbbbbbbbb/Assignment1.git
+   fbdbe93..f8c8664  master -> master
+
+
+b) 7
+git rev-list --all --count
+
+c) Wed Sep 27 16:31:42 2017
+git log .gitnignore
+
+d) commit 1cc7d6674cce7e5339598e87e07e329c45814408
+commit cb30d72a3d94c108f393c163a35c1cc9bf18ffca
+
+
+e) using a branch in a git repo allows different directions and ideas to be pursued at once without worry of changes in one branch breaking the main one. 
+
+f) git status tells you the differences between your local files, branches, how many commits off you are etc etc etc, git log provides a history of all commits
+
+g) git log weapon.h
+
+h) git log --grep=<pattern>
+
+i) inheritance is when a class inherits the basic variables from another, can have its own properties overwriting that though. polymorphism is when a single interface is capable of acting as the interface to things of several types. encapsulation is bundling data with methods to restrict direct access to them
+
+
+
